@@ -1,4 +1,4 @@
-# 🔍 Nmap AI Framework
+# 🔍 Nmap AI powered
 
 🚀 A Python-based Nmap automation tool built for **Termux & Linux** users.  
 This tool helps beginners and security learners run Nmap scans easily with step-by-step commands.
