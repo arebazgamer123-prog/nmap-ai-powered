@@ -29,7 +29,8 @@ Copy and paste the commands below in **Termux**:
 pkg update -y
 pkg upgrade -y
 pkg install python nmap git -y
-git clone https://github.com/arebazgame/nmap-ai-framework.git
+git clone
+https://github.com/arebazgamer123-prog/nmap-ai-powered.git
 cd nmap-ai-framework
 python nmap.py
 
