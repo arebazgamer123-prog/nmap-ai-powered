@@ -1,7 +1,7 @@
 # arebaz-nmap
 💀 Arebaz Nmap — Advanced network reconnaissance, exposure mapping &amp; threat-level analysis framework (authorized use only)
 <p align="center">
-  <h1 align="center">🕶️ AREBAZ BLACKBOX</h1>
+  <h1 align="center">🕶️ AREBAZ NMAP</h1>
   <p align="center">
     💀 Advanced Network Reconnaissance, Exposure Mapping & Threat-Level Analysis  
     <br>
